@@ -44,30 +44,30 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git"/>
   <!-- Wireshark -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Wireshark_icon.svg" height="40" alt="wireshark"/>
-  
+
   <!-- Nmap -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Nmap_logo.svg" height="40" alt="nmap"/>
-  
+  <img src="https://icons8.com/icons/set/nmap" height="40" alt="nmap"/>
+
   <!-- Shodan -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Shodan_logo.svg" height="40" alt="shodan"/>
-  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Shodan_logo.svg" height="40" alt="shodan"/>
+
   <!-- IBM SPSS Statistics -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/IBM_SPS_Statistics_Logo.svg" height="40" alt="spss"/>
-  
+  <img src="https://techicons.dev/icons/spss" height="40" alt="spss"/>
+
   <!-- VMware -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/VMware_logo.svg" height="40" alt="vmware"/>
-  
+  <img src="https://www.svgrepo.com/show/377851/vmware.svg" height="40" alt="vmware"/>
+
   <!-- Oracle VirtualBox -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/VirtualBox_logo_2010.svg" height="40" alt="virtualbox"/>
-  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/VirtualBox_logo.svg" height="40" alt="virtualbox"/>
+
   <!-- Overleaf -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Overleaf_logo.svg" height="40" alt="overleaf"/>
-  
+  <img src="https://www.svgrepo.com/show/306528/overleaf.svg" height="40" alt="overleaf"/>
+
   <!-- Subversion -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Subversion_Logo.svg" height="40" alt="subversion"/>
-  
+  <img src="https://www.svgrepo.com/show/306815/subversion.svg" height="40" alt="subversion"/>
+
   <!-- TortoiseSVN -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/TortoiseSVN_logo.svg" height="40" alt="tortoisesvn"/>
+  <img src="https://iconduck.com/icons/20800/tortoisesvn" height="40" alt="tortoisesvn"/>
 </p>
 
 ---

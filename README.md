@@ -33,9 +33,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="40" alt="haskell"/>
-  ![assembly](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg)
-  ![prolog](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg)
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="assembly"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="40" alt="prolog"/>
 </p>
 
 ### 📊 Data Science & Big Data
@@ -45,16 +44,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="spark"/>
   <img src="https://www.vectorlogo.zone/logos/cloudera/cloudera-icon.svg" height="40" alt="cloudera"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql"/>
-  ![hadoop](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg)
-  ![weka](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg)
-  ![spss](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="hadoop"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="weka"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="spss"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r"/>
 </p>
 
 ### 💻 Operating Systems
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows"/>
-  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg" height="40" alt="linuxmint"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Kali_Linux_2.0_wordmark.svg" height="40" alt="kali"/>
@@ -83,7 +81,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/VMware_logo.svg" height="40" alt="vmware"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="postman"/>
 </p>
-
 
 ---
 

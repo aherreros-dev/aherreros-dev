@@ -1,10 +1,5 @@
 <h1 align="center">Hi there, I'm Alejandro Herreros 👋</h1>
 <h3 align="center">Big Data | Machine Learning | Cybersecurity</h3>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aherreros-dev&theme=darkhub&no-bg=true&margin-w=10" />
-</p>
-
 ---
 
 ### 🧠 About Me

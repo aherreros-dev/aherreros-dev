@@ -59,8 +59,11 @@
 
 ### 🧭 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=0A66C2)](https://www.linkedin.com/in/alejandro-herreros-rueda/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-herreros-rueda/)
 [![Email](https://img.shields.io/badge/Email-Contact-%23D14836?style=flat&logo=gmail&logoColor=white)](mailto:alejandro.h.reachout@gmail.com)
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-217125-%23F48024?style=flat&logo=stackoverflow&logoColor=white)](https://es.stackoverflow.com/users/217125/alejandro-h)
+[![Wuolah](https://img.shields.io/badge/Wuolah-AlexHerreros-%23F0DB4F?style=flat&logo=github&logoColor=black)](https://wuolah.com/profile/AlexHerreros)
+
 
 ---
 

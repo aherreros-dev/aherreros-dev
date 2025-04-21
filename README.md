@@ -1,12 +1,11 @@
 <h1 align="center">Hi there, I'm Alejandro Herreros 👋</h1>
 <h3 align="center">Big Data | Machine Learning | Cybersecurity</h3>
 
-![Big Data](https://img.shields.io/badge/Big%20Data-%23007ACC.svg?style=for-the-badge&logo=databricks&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Cloudera](https://img.shields.io/badge/Cloudera-06306B?style=for-the-badge&logo=cloudera&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-%23FF0000.svg?style=for-the-badge&logo=hackthebox&logoColor=white)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aherreros-dev&theme=darkhub&no-bg=true&margin-w=10" />
+</p>
+
+---
 
 ### 🧠 About Me
 
@@ -25,58 +24,20 @@
 
 ---
 
-## 🧰 Languages, Tools & Technologies
+### 🧰 Languages, Tools & Technologies
 
-### 🧑‍💻 Programming Languages
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="40" alt="haskell"/>
-</p>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
+ 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" width="40" />
 
-### 📊 Data Science & Big Data
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r"/>
-  <img src="https://www.vectorlogo.zone/logos/cloudera/cloudera-icon.svg" height="40" alt="cloudera"/>
-</p>
-
-### 💻 Operating Systems
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg" height="40" alt="linuxmint"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Kali_Linux_2.0_wordmark.svg" height="40" alt="kali"/>
-</p>
-
-### 🧰 IDEs & Editors
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="40" alt="eclipse"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Code::Blocks_logo.svg" height="40" alt="codeblocks"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" height="40" alt="netbeans"/>
-</p>
-
-### 🛡 Cybersecurity
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Wireshark_icon.svg" height="40" alt="wireshark"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Nmap_logo.svg" height="40" alt="nmap"/>
-</p>
-
-### 🧩 Other Tools
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" height="40" alt="vagrant"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/TortoiseSVN_logo.svg" height="40" alt="tortoisesvn"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Subversion_Logo.svg" height="40" alt="subversion"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/VMware_logo.svg" height="40" alt="vmware"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="postman"/>
 </p>
 
 ---
@@ -98,4 +59,14 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=0A66C2)](https://www.linkedin.com/in/alejandro-herreros-rueda/)
 [![Email](https://img.shields.io/badge/Email-Contact-%23D14836?style=flat&logo=gmail&logoColor=white)](mailto:alejandro.h.reachout@gmail.com)
 
+---
 
+### 🏷️ Tech Tags
+
+![Big Data](https://img.shields.io/badge/Big%20Data-%23007ACC.svg?style=for-the-badge&logo=databricks&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Cloudera](https://img.shields.io/badge/Cloudera-06306B?style=for-the-badge&logo=cloudera&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-%23FF0000.svg?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Cryptography](https://img.shields.io/badge/Cryptography-Researcher-%23555555?style=for-the-badge)

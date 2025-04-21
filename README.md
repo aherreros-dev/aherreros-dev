@@ -53,7 +53,7 @@
 ### 💻 Operating Systems
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="macos"/>
+  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg" height="40" alt="linuxmint"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Kali_Linux_2.0_wordmark.svg" height="40" alt="kali"/>
@@ -69,7 +69,6 @@
 
 ### 🛡 Cybersecurity
 <p align="left">
-  <img src="https://www.svgrepo.com/show/509292/hacker.svg" height="40" alt="cybersecurity"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Wireshark_icon.svg" height="40" alt="wireshark"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Nmap_logo.svg" height="40" alt="nmap"/>
 </p>

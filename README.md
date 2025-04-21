@@ -1,6 +1,12 @@
 <h1 align="center">Hi there, I'm Alejandro Herreros 👋</h1>
 <h3 align="center">Big Data | Machine Learning | Cybersecurity</h3>
----
+
+![Big Data](https://img.shields.io/badge/Big%20Data-%23007ACC.svg?style=for-the-badge&logo=databricks&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Cloudera](https://img.shields.io/badge/Cloudera-06306B?style=for-the-badge&logo=cloudera&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-%23FF0000.svg?style=for-the-badge&logo=hackthebox&logoColor=white)
 
 ### 🧠 About Me
 
@@ -54,14 +60,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=0A66C2)](https://www.linkedin.com/in/alejandro-herreros-rueda/)
 [![Email](https://img.shields.io/badge/Email-Contact-%23D14836?style=flat&logo=gmail&logoColor=white)](mailto:alejandro.h.reachout@gmail.com)
 
----
 
-### 🏷️ Tech Tags
-
-![Big Data](https://img.shields.io/badge/Big%20Data-%23007ACC.svg?style=for-the-badge&logo=databricks&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Cloudera](https://img.shields.io/badge/Cloudera-06306B?style=for-the-badge&logo=cloudera&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-%23FF0000.svg?style=for-the-badge&logo=hackthebox&logoColor=white)
-![Cryptography](https://img.shields.io/badge/Cryptography-Researcher-%23555555?style=for-the-badge)

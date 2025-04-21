@@ -73,4 +73,3 @@
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Cloudera](https://img.shields.io/badge/Cloudera-06306B?style=for-the-badge&logo=cloudera&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-%23FF0000.svg?style=for-the-badge&logo=hackthebox&logoColor=white)
-![Cryptography](https://img.shields.io/badge/Cryptography-Researcher-%23555555?style=for-the-badge)

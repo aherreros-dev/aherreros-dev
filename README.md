@@ -33,8 +33,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="40" alt="haskell"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Assembly_language_icon.png" height="40" alt="assembly"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Prolog.png" height="40" alt="prolog"/>
+  ![assembly](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg)
+  ![prolog](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg)
+  
 </p>
 
 ### 📊 Data Science & Big Data
@@ -44,9 +45,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="spark"/>
   <img src="https://www.vectorlogo.zone/logos/cloudera/cloudera-icon.svg" height="40" alt="cloudera"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Hadoop_logo.svg" height="40" alt="hadoop"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Weka_logo.svg" height="40" alt="weka"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_SPSS_Statistics_Logo.png" height="40" alt="spss"/>
+  ![hadoop](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg)
+  ![weka](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg)
+  ![spss](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r"/>
 </p>
 

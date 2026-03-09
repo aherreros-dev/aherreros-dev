@@ -12,16 +12,16 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 
-🎓 I’m an undergraduate student in **Computer Engineering** with a strong foundation in programming languages and data systems.
+I’m an undergraduate student in **Computer Engineering** with a strong foundation in programming languages and data systems.
 
-🚀 My current focus is on:
+My current focus is on:
 - Building scalable systems with **Big Data technologies** (**Apache Spark**, **Cloudera**).
 - Designing intelligent solutions using **PyTorch** and **TensorFlow**.
 - Exploring secure computing, **cryptography**, and **cybersecurity** research.
 
-🛠️ Comfortable working with:
+Comfortable working with:
 - Linux-based distros (esp. **Kali Linux**)
 - Terminal workflows with **zsh**, **fish**, and **Neovim**
 
@@ -38,7 +38,7 @@ I focus on the technical intersection of **Big Data Analytics** and **Offensive 
 
 ---
 
-### 🛡️ Featured Security Engagements (RootedCON 2026)
+### Featured Security Engagements (RootedCON 2026)
 
 I am actively involved in the Spanish cybersecurity scene, specifically focusing on hardware exploitation and complex CTF environments.
 
@@ -51,7 +51,7 @@ I am actively involved in the Spanish cybersecurity scene, specifically focusing
 
 ---
 
-### 🧰 Languages, Tools & Technologies
+### Languages, Tools & Technologies
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
@@ -75,7 +75,7 @@ I am actively involved in the Spanish cybersecurity scene, specifically focusing
 
 ---
 
-### 📊 GitHub Stats
+### Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aherreros-dev&show_icons=true&theme=github_dark&hide_title=true" />
@@ -85,7 +85,7 @@ I am actively involved in the Spanish cybersecurity scene, specifically focusing
 
 ---
 
-### 🧭 Connect with Me
+### Connect with Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/alejandro-herreros-rueda/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -96,7 +96,7 @@ I am actively involved in the Spanish cybersecurity scene, specifically focusing
 
 ---
 
-### 🏷️ Tech Tags
+### Tags
 
 ![Big Data](https://img.shields.io/badge/Big%20Data-%23007ACC.svg?style=for-the-badge&logo=databricks&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)

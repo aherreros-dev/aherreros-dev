@@ -13,6 +13,38 @@
 </p>
 
 ---
+### Languages, Tools & Technologies
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="SQL / PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" width="40" title="Assembly x86" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux" />
+  <img src="https://cdn.simpleicons.org/apple/FFFFFF" width="40" title="Apple/macOS" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" title="TensorFlow" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="40" title="Keras" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" title="PyTorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="40" title="Apache Hadoop" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" title="Apache Spark" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="40" title="Vim" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" width="40" title="Neovim" />
+  <img src="https://cdn.simpleicons.org/latex/FFFFFF" width="40" title="LaTeX" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" title="Hardware / ESP32" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OS-Kali%20Linux-203562?logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tool-Metasploit-black?logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tool-Burp%20Suite-E76F00?logo=portswigger&logoColor=white" />
+  <img src="https://img.shields.io/badge/Skill-Reverse%20Engineering-red?logo=ghidra&logoColor=white" />
+</p>
+
+---
 
 ### About Me
 
@@ -44,43 +76,13 @@ I focus on the technical intersection of **Big Data Analytics** and **Offensive 
 
 I am actively involved in the Spanish cybersecurity scene, specifically focusing on hardware exploitation and complex CTF environments.
 
-* **Hardware Hacking CTF – Official RootedCON Badge:**
+* **Hardware Hacking CTF – Official RootedCON PACMAN Badge:**
     * Performed technical analysis and vulnerability exploitation on the official RootedCON hardware.
     * Executed **Reverse Engineering** on the **SoC ESP32-WROOM-32E**, firmware extraction and interface analysis (**UART/JTAG**).
-
----
-
-### Languages, Tools & Technologies
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="SQL / PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" width="40" title="Assembly x86" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux" />
-  <img src="https://cdn.simpleicons.org/apple/FFFFFF" width="40" title="Apple/macOS" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" title="TensorFlow" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="40" title="Keras" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" title="PyTorch" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="40" title="Apache Hadoop" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" title="Apache Spark" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="40" title="Vim" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" width="40" title="Neovim" />
-  <img src="https://cdn.simpleicons.org/latex/FFFFFF" width="40" title="LaTeX" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" title="Hardware / ESP32" />
-</p>
-  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/OS-Kali%20Linux-203562?logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tool-Metasploit-black?logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tool-Burp%20Suite-E76F00?logo=portswigger&logoColor=white" />
-  <img src="https://img.shields.io/badge/Skill-Reverse%20Engineering-red?logo=ghidra&logoColor=white" />
-</p>
+* **Var Group Iberia & Yarix CTF:**
+    * Ranked **13th overall out of ~250 participants** in a highly competitive, multi-domain laboratory.
+    * Tackled advanced scenarios spanning **Active Directory** (privilege escalation, lateral movement), **Web Security**, and **Artificial Intelligence** vulnerabilities.
+    * Applied a **Purple Team** methodology, correlating offensive exploit execution (Red Team) with defensive threat detection and infrastructure hardening (Blue Team).
 
 ---
 

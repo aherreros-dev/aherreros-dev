@@ -7,7 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aherreros-dev&theme=darkhub&no-bg=true&margin-w=10" />
+  <img src="https://img.shields.io/badge/Main_OS-BlackArch_Linux-000000?logo=archlinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Active_on-HackTheBox-9FEF00?logo=hackthebox&logoColor=black" />
+  <img src="https://img.shields.io/badge/Specialty-CTF_Player-red?logo=flag&logoColor=white" />
 </p>
 
 ---
@@ -44,33 +46,40 @@ I am actively involved in the Spanish cybersecurity scene, specifically focusing
 
 * **Hardware Hacking CTF – Official RootedCON Badge:**
     * Performed technical analysis and vulnerability exploitation on the official RootedCON hardware.
-    * Executed **Reverse Engineering** on the **SoC ESP32-WROOM-32E**, including firmware extraction and interface analysis (**UART/JTAG**) to identify attack vectors.
-* **Var Group Iberia & Yarix CTF:**
-    * Participated in the specialized laboratory of challenges deployed during RootedCON Madrid.
-    * Applied advanced Red Team and Blue Team techniques to solve multi-layered infrastructure vulnerabilities.
+    * Executed **Reverse Engineering** on the **SoC ESP32-WROOM-32E**, firmware extraction and interface analysis (**UART/JTAG**).
 
 ---
 
 ### Languages, Tools & Technologies
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="40" alt="Keras Logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="SQL / PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" width="40" title="Assembly x86" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux" />
+  <img src="https://cdn.simpleicons.org/apple/FFFFFF" width="40" title="Apple/macOS" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" title="TensorFlow" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="40" title="Keras" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" title="PyTorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="40" title="Apache Hadoop" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" title="Apache Spark" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="40" title="Vim" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" width="40" title="Neovim" />
+  <img src="https://cdn.simpleicons.org/latex/FFFFFF" width="40" title="LaTeX" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" title="Hardware / ESP32" />
 </p>
+  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OS-Kali%20Linux-blue?logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/OS-Kali%20Linux-203562?logo=kali-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Tool-Metasploit-black?logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tool-Burp%20Suite-orange?logo=portswigger&logoColor=white" />
-  <img src="https://img.shields.io/badge/Skill-Reverse%20Engineering-red" />
+  <img src="https://img.shields.io/badge/Tool-Burp%20Suite-E76F00?logo=portswigger&logoColor=white" />
+  <img src="https://img.shields.io/badge/Skill-Reverse%20Engineering-red?logo=ghidra&logoColor=white" />
 </p>
 
 ---
@@ -80,6 +89,8 @@ I am actively involved in the Spanish cybersecurity scene, specifically focusing
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aherreros-dev&show_icons=true&theme=github_dark&hide_title=true" />
   <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aherreros-dev&layout=compact&theme=github_dark&hide_title=true" />
+  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=aherreros-dev&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D"/>
 </p>
 
@@ -88,17 +99,17 @@ I am actively involved in the Spanish cybersecurity scene, specifically focusing
 ### Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/alejandro-herreros-rueda/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:alejandro.h.reachout@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://es.stackoverflow.com/users/217125/alejandro-h"><img src="https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
-<a href="https://wuolah.com/profile/AlexHerreros"><img src="https://img.shields.io/badge/Wuolah-AlexHerreros-yellow?style=for-the-badge&logo=docsdotrs&logoColor=black" /></a>
+<a href="https://www.linkedin.com/in/alejandro-herreros-rueda/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
+<a href="mailto:alejandro.h.reachout@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white" /></a>
+<a href="https://es.stackoverflow.com/users/217125/alejandro-h"><img src="https://img.shields.io/badge/StackOverflow-F48024?logo=stackoverflow&logoColor=white" /></a>
+<a href="https://wuolah.com/profile/AlexHerreros"><img src="https://img.shields.io/badge/Wuolah-AlexHerreros-yellow?logo=docsdotrs&logoColor=black" /></a>
 </p>
 
 ---
-
 ### Tags
-
-![Big Data](https://img.shields.io/badge/Big%20Data-%23007ACC.svg?style=for-the-badge&logo=databricks&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-%23FF0000.svg?style=for-the-badge&logo=hackthebox&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Big%20Data-007ACC?logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cybersecurity-FF0000?logo=hackthebox&logoColor=white" />
+</p>

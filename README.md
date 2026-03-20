@@ -1,4 +1,6 @@
-<h1 align="center">Alejandro Herreros aka redr4ven</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=FF0000&background=000000&center=true&vCenter=true&width=800&lines=Alejandro+Herreros+aka+redr4ven;System+Compromised...;Root+Access+Granted." alt="Matrix Glitch Typing SVG" />
+</p>
 
 <h3 align="center">Big Data | Machine Learning | Cybersecurity</h3>
 
@@ -89,11 +91,11 @@ I am actively involved in the Spanish cybersecurity scene, specifically focusing
 ### Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aherreros-dev&show_icons=true&theme=github_dark&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aherreros-dev&show_icons=true&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=ff0000&hide_title=true" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aherreros-dev&layout=compact&theme=github_dark&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aherreros-dev&layout=compact&bg_color=000000&title_color=ff0000&text_color=ffffff&border_color=ff0000&hide_title=true" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aherreros-dev&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aherreros-dev&background=000000&border=ff0000&stroke=ff0000&ring=ff0000&fire=ff0000&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff0000&sideLabels=ffffff&dates=ffffff&date_format=M%20j%5B%2C%20Y%5D"/>
 </p>
 
 ---

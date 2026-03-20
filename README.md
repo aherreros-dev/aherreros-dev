@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Alejandro Herreros aka redr4ven</h1>
+<h1 align="center">Alejandro Herreros aka redr4ven</h1>
 
 <h3 align="center">Big Data | Machine Learning | Cybersecurity</h3>
 

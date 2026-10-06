@@ -15,6 +15,7 @@
 </p>
 
 ---
+
 ### Languages, Tools & Technologies
 
 <p align="center">
@@ -50,41 +51,33 @@
 
 ### About Me
 
-I’m an undergraduate student in **Computer Engineering** with a strong foundation in programming languages and data systems.
+Computer Engineer bridging data-driven architectures and offensive security.
 
-My current focus is on:
-- Building scalable systems with **Big Data technologies** (**Apache Spark**, **Cloudera**).
-- Designing intelligent solutions using **PyTorch** and **TensorFlow**.
-- Exploring secure computing, **cryptography**, and **cybersecurity** research.
-
-Comfortable working with:
-- Linux-based distros (esp. **Kali Linux**)
-- Terminal workflows with **zsh**, **fish**, and **Neovim**
+* **Professional Focus:** Machine Learning & Data Science. Scalable analytical systems (Apache Spark) and intelligent solutions (PyTorch, TensorFlow).
+* **Independent Research:** Cybersecurity. Vulnerability analysis, low-level exploitation, cryptography, and competitive CTFs.
+* **Environment:** Linux (BlackArch, Kali Linux), CLI workflows (zsh, tmux, Neovim).
 
 ---
 
-### 🚩 Offensive Security & Adversarial Research
+### Offensive Security & Adversarial Research
 
-I focus on the technical intersection of **Big Data Analytics** and **Offensive Security**, leveraging automated data processing to identify attack surfaces.
+Focusing on the technical intersection of Big Data Analytics and Offensive Security, leveraging automated data processing to identify attack surfaces.
 
-* **Vulnerability Research:** Analyzing software binaries and web architectures for common OWASP Top 10 vulnerabilities and logic flaws.
-* **Post-Exploitation:** Developing custom payloads for **Lateral Movement** and maintaining persistence in Unix-based environments.
-* **Infrastructure:** Hardening and auditing distributed systems (Hadoop/Spark clusters) against unauthorized access.
-* **CTF Focus:** Active in **pwn**, **crypto**, and **web** categories.
+* **Vulnerability Research:** Binary analysis and web architecture auditing.
+* **Post-Exploitation:** Custom payload development for lateral movement and persistence in Unix environments.
+* **Infrastructure Auditing:** Hardening distributed systems (Hadoop/Spark clusters).
+* **CTF:** Active competitor in pwn, crypto, and web categories.
 
 ---
 
-### Featured Security Engagements (RootedCON 2026)
+### Featured Security Engagements
 
-I am actively involved in the Spanish cybersecurity scene, specifically focusing on hardware exploitation and complex CTF environments.
-
-* **Hardware Hacking CTF – Official RootedCON PACMAN Badge:**
-    * Performed technical analysis and vulnerability exploitation on the official RootedCON hardware.
-    * Executed **Reverse Engineering** on the **SoC ESP32-WROOM-32E**, firmware extraction and interface analysis (**UART/JTAG**).
+* **Hardware Hacking CTF (RootedCON 2026):**
+  * Reverse engineering and vulnerability exploitation on the official PACMAN badge.
+  * Firmware extraction and interface analysis (UART/JTAG) on the SoC ESP32-WROOM-32E.
 * **Var Group Iberia & Yarix CTF:**
-    * Ranked **13th overall out of ~250 participants** in a highly competitive, multi-domain laboratory.
-    * Tackled advanced scenarios spanning **Active Directory** (privilege escalation, lateral movement), **Web Security**, and **Artificial Intelligence** vulnerabilities.
-    * Applied a **Purple Team** methodology, correlating offensive exploit execution (Red Team) with defensive threat detection and infrastructure hardening (Blue Team).
+  * Ranked 13th overall out of ~250 participants.
+  * Applied Purple Team methodology targeting Active Directory (privilege escalation, lateral movement), Web Security, and AI vulnerabilities.
 
 ---
 
@@ -102,20 +95,11 @@ I am actively involved in the Spanish cybersecurity scene, specifically focusing
 
 ---
 
-### Connect with Me
+### Connect
 
 <p align="center">
 <a href="https://www.linkedin.com/in/alejandro-herreros-rueda/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
 <a href="mailto:alejandro.h.reachout@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white" /></a>
 <a href="https://es.stackoverflow.com/users/217125/alejandro-h"><img src="https://img.shields.io/badge/StackOverflow-F48024?logo=stackoverflow&logoColor=white" /></a>
 <a href="https://wuolah.com/profile/AlexHerreros"><img src="https://img.shields.io/badge/Wuolah-AlexHerreros-yellow?logo=docsdotrs&logoColor=black" /></a>
-</p>
-
----
-### Tags
-<p align="center">
-  <img src="https://img.shields.io/badge/Big%20Data-007ACC?logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cybersecurity-FF0000?logo=hackthebox&logoColor=white" />
 </p>

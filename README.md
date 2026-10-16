@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <code>ML Engineer @ NTT DATA</code> · <code>Computer Engineer</code> · <code>Offensive Security</code>
+  <code>ML Engineer</code> · <code>Computer Engineer</code> · <code>Offensive Security</code>
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 <br>
 
-### `$ whoami`
+### `whoami`
 
 Building data-driven systems by day, breaking them by night.
 
@@ -25,7 +25,7 @@ Building data-driven systems by day, breaking them by night.
 
 <br>
 
-### `$ stack`
+### `stack`
 
 <p>
   <img src="https://cdn.simpleicons.org/python/FF0000" width="24" title="Python" />
@@ -54,7 +54,7 @@ Building data-driven systems by day, breaking them by night.
 
 <br>
 
-### `$ ls ./projects`
+### `ls ./projects`
 
 | Project | Description | Stack |
 |---|---|---|
@@ -64,7 +64,7 @@ Building data-driven systems by day, breaking them by night.
 
 <br>
 
-### `$ cat engagements.log`
+### `cat engagements.log`
 
 | Event | Result |
 |---|---|
@@ -73,7 +73,7 @@ Building data-driven systems by day, breaking them by night.
 
 <br>
 
-### `$ cat now.txt`
+### `cat now.txt`
 
 - Deploying ML systems in production (MLOps, data validation, CI/CD).
 - Exploring adversarial ML and the security of AI pipelines.
@@ -81,9 +81,8 @@ Building data-driven systems by day, breaking them by night.
 
 <br>
 
-### `$ stats`
+### `stats`
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aherreros-dev&bg_color=0d0d0d&color=c9c9c9&line=FF0000&point=FF0000&area=true&area_color=FF0000&hide_border=true&hide_title=true" width="100%" />
 
 <p>
   <img height="150" src="https://my-github-stats-dusky-psi.vercel.app/api?username=aherreros-dev&show_icons=true&hide_title=true&hide_border=true&bg_color=0d0d0d&text_color=c9c9c9&icon_color=FF0000&title_color=FF0000" />
@@ -94,7 +93,7 @@ Building data-driven systems by day, breaking them by night.
 
 <br>
 
-### `$ contact`
+### `contact`
 
 <a href="https://www.linkedin.com/in/alejandro-herreros-rueda/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=FF0000" /></a>
 <a href="mailto:alejandro.h.reachout@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=FF0000" /></a>

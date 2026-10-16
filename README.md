@@ -1,105 +1,77 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=FF0000&background=000000&center=true&vCenter=true&width=800&lines=Alejandro+Herreros+aka+redr4ven;System+Compromised...;Root+Access+Granted." alt="Matrix Glitch Typing SVG" />
-</p>
-
-<h3 align="center">Big Data | Machine Learning | Cybersecurity</h3>
-
-<p align="center">
-  <img src="redr4ven.jpg" alt="redr4ven profile image" width="180" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1200&color=FF0000&center=true&vCenter=true&width=600&lines=Alejandro+Herreros+%2F%2F+redr4ven;Machine+Learning+%C2%B7+Big+Data+%C2%B7+Security" alt="redr4ven" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Main_OS-BlackArch_Linux-000000?logo=archlinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Active_on-HackTheBox-9FEF00?logo=hackthebox&logoColor=black" />
-  <img src="https://img.shields.io/badge/Specialty-CTF_Player-red?logo=flag&logoColor=white" />
-</p>
-
----
-
-### Languages, Tools & Technologies
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="SQL / PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" width="40" title="Assembly x86" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux" />
-  <img src="https://cdn.simpleicons.org/apple/FFFFFF" width="40" title="Apple/macOS" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" title="TensorFlow" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="40" title="Keras" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" title="PyTorch" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="40" title="Apache Hadoop" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" title="Apache Spark" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="40" title="Vim" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" width="40" title="Neovim" />
-  <img src="https://cdn.simpleicons.org/latex/FFFFFF" width="40" title="LaTeX" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" title="Hardware / ESP32" />
+  <code>Computer Engineer</code> · <code>ML / Data Engineering</code> · <code>Offensive Security</code>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OS-Kali%20Linux-203562?logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tool-Metasploit-black?logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tool-Burp%20Suite-E76F00?logo=portswigger&logoColor=white" />
-  <img src="https://img.shields.io/badge/Skill-Reverse%20Engineering-red?logo=ghidra&logoColor=white" />
+  <img src="https://img.shields.io/badge/BlackArch-000000?style=flat-square&logo=archlinux&logoColor=FF0000" />
+  <img src="https://img.shields.io/badge/HackTheBox-000000?style=flat-square&logo=hackthebox&logoColor=FF0000" />
+  <img src="https://img.shields.io/badge/CTF-pwn%20%C2%B7%20crypto%20%C2%B7%20web-000000?style=flat-square&labelColor=000000&color=FF0000" />
 </p>
 
----
+<br>
 
-### About Me
+### `$ whoami`
 
-Computer Engineer bridging data-driven architectures and offensive security.
+Building data-driven systems by day, breaking them by night.
 
-* **Professional Focus:** Machine Learning & Data Science. Scalable analytical systems (Apache Spark) and intelligent solutions (PyTorch, TensorFlow).
-* **Independent Research:** Cybersecurity. Vulnerability analysis, low-level exploitation, cryptography, and competitive CTFs.
-* **Environment:** Linux (BlackArch, Kali Linux), CLI workflows (zsh, tmux, Neovim).
+- **Work** — Machine learning and data engineering: scalable pipelines (Spark) and models (PyTorch, TensorFlow).
+- **Research** — Binary analysis, web auditing, cryptography, hardware hacking.
+- **Setup** — Linux (BlackArch, Kali), zsh · tmux · Neovim.
 
----
+<br>
 
-### Offensive Security & Adversarial Research
+### `$ stack`
 
-Focusing on the technical intersection of Big Data Analytics and Offensive Security, leveraging automated data processing to identify attack surfaces.
-
-* **Vulnerability Research:** Binary analysis and web architecture auditing.
-* **Post-Exploitation:** Custom payload development for lateral movement and persistence in Unix environments.
-* **Infrastructure Auditing:** Hardening distributed systems (Hadoop/Spark clusters).
-* **CTF:** Active competitor in pwn, crypto, and web categories.
-
----
-
-### Featured Security Engagements
-
-* **Hardware Hacking CTF (RootedCON 2026):**
-  * Reverse engineering and vulnerability exploitation on the official PACMAN badge.
-  * Firmware extraction and interface analysis (UART/JTAG) on the SoC ESP32-WROOM-32E.
-* **Var Group Iberia & Yarix CTF:**
-  * Ranked 13th overall out of ~250 participants.
-  * Applied Purple Team methodology targeting Active Directory (privilege escalation, lateral movement), Web Security, and AI vulnerabilities.
-
----
-
-### Stats
-
-<div align="center">
-
-![GitHub Stats](https://my-github-stats-dusky-psi.vercel.app/api?username=aherreros-dev&show_icons=true&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=ff0000&hide_title=true)
-
-![Top Languages](https://my-github-stats-dusky-psi.vercel.app/api/top-langs?username=aherreros-dev&layout=compact&bg_color=000000&title_color=ff0000&text_color=ffffff&border_color=ff0000&hide_title=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aherreros-dev&background=000000&border=ff0000&stroke=ff0000&ring=ff0000&fire=ff0000&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff0000&sideLabels=ffffff&dates=ffffff&date_format=M%20j%5B%2C%20Y%5D)
-
-</div>
-
----
-
-### Connect
-
-<p align="center">
-<a href="https://www.linkedin.com/in/alejandro-herreros-rueda/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
-<a href="mailto:alejandro.h.reachout@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white" /></a>
-<a href="https://es.stackoverflow.com/users/217125/alejandro-h"><img src="https://img.shields.io/badge/StackOverflow-F48024?logo=stackoverflow&logoColor=white" /></a>
-<a href="https://wuolah.com/profile/AlexHerreros"><img src="https://img.shields.io/badge/Wuolah-AlexHerreros-yellow?logo=docsdotrs&logoColor=black" /></a>
+<p>
+  <img src="https://cdn.simpleicons.org/python/FF0000" width="28" title="Python" />&nbsp;
+  <img src="https://cdn.simpleicons.org/openjdk/FF0000" width="28" title="Java" />&nbsp;
+  <img src="https://cdn.simpleicons.org/c/FF0000" width="28" title="C" />&nbsp;
+  <img src="https://cdn.simpleicons.org/postgresql/FF0000" width="28" title="PostgreSQL" />&nbsp;
+  <img src="https://cdn.simpleicons.org/pytorch/FF0000" width="28" title="PyTorch" />&nbsp;
+  <img src="https://cdn.simpleicons.org/tensorflow/FF0000" width="28" title="TensorFlow" />&nbsp;
+  <img src="https://cdn.simpleicons.org/keras/FF0000" width="28" title="Keras" />&nbsp;
+  <img src="https://cdn.simpleicons.org/apachespark/FF0000" width="28" title="Apache Spark" />&nbsp;
+  <img src="https://cdn.simpleicons.org/apachehadoop/FF0000" width="28" title="Apache Hadoop" />
 </p>
+<p>
+  <img src="https://cdn.simpleicons.org/linux/FF0000" width="28" title="Linux" />&nbsp;
+  <img src="https://cdn.simpleicons.org/archlinux/FF0000" width="28" title="Arch / BlackArch" />&nbsp;
+  <img src="https://cdn.simpleicons.org/kalilinux/FF0000" width="28" title="Kali Linux" />&nbsp;
+  <img src="https://cdn.simpleicons.org/neovim/FF0000" width="28" title="Neovim" />&nbsp;
+  <img src="https://cdn.simpleicons.org/git/FF0000" width="28" title="Git" />&nbsp;
+  <img src="https://cdn.simpleicons.org/latex/FF0000" width="28" title="LaTeX" />&nbsp;
+  <img src="https://cdn.simpleicons.org/espressif/FF0000" width="28" title="ESP32" />&nbsp;
+  <img src="https://cdn.simpleicons.org/burpsuite/FF0000" width="28" title="Burp Suite" />&nbsp;
+  <img src="https://cdn.simpleicons.org/metasploit/FF0000" width="28" title="Metasploit" />
+</p>
+
+<br>
+
+### `$ cat engagements.log`
+
+| Event | Result |
+|---|---|
+| **Var Group Iberia & Yarix CTF** | 13th / ~250 — Active Directory, web, AI vulnerabilities |
+| **RootedCON 2026 · Hardware CTF** | Firmware extraction and UART/JTAG analysis on the ESP32-WROOM-32E badge |
+
+<br>
+
+### `$ stats`
+
+<p>
+  <img height="150" src="https://my-github-stats-dusky-psi.vercel.app/api?username=aherreros-dev&show_icons=true&hide_title=true&hide_border=true&bg_color=0d0d0d&text_color=c9c9c9&icon_color=FF0000&title_color=FF0000" />
+  <img height="150" src="https://my-github-stats-dusky-psi.vercel.app/api/top-langs?username=aherreros-dev&layout=compact&hide_title=true&hide_border=true&bg_color=0d0d0d&text_color=c9c9c9&title_color=FF0000" />
+</p>
+
+<br>
+
+### `$ contact`
+
+<a href="https://www.linkedin.com/in/alejandro-herreros-rueda/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=FF0000" /></a>
+<a href="mailto:alejandro.h.reachout@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=FF0000" /></a>
+<a href="https://es.stackoverflow.com/users/217125/alejandro-h"><img src="https://img.shields.io/badge/StackOverflow-000000?style=flat-square&logo=stackoverflow&logoColor=FF0000" /></a>
+<a href="https://wuolah.com/profile/AlexHerreros"><img src="https://img.shields.io/badge/Wuolah-000000?style=flat-square&logo=docsdotrs&logoColor=FF0000" /></a>
